@@ -1,51 +1,57 @@
-<h1 align="center">Hi there 👋, I'm KenXinDev</h1>
+<h1 align="center">Hi there, I'm KenXin 👋</h1>
 <p align="center">
-  <i>A passionate Pythonista who loves turning ideas into code.</i><br>
-  <i>"Code is my canvas, and Python is my brush."</i>
+  <a href="https://github.com/KenXinDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Engineer;Backend+%7C+Frontend+%7C+Automation;Passionate+about+Clean+Code+%26+Innovation" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 About Me
 
-- 🐍 Python enthusiast & problem solver  
-- 💻 I enjoy building tools, bots, APIs, and automation scripts  
-- 🌐 Interested in Web Development & Cybersecurity  
-- 🎯 Currently sharpening my skills in ethical hacking and backend systems  
-- 📍 Based somewhere between code and curiosity  
+- 🚀 Fullstack Engineer with a passion for creating clean, efficient, and scalable applications.
+- 🧠 Always learning: currently exploring AI integrations & advanced automation.
+- 🔧 Tech Stack: `Node.js`, `PHP`, `MySQL`, `TailwindCSS`, `React`, `Puppeteer`, `Python`, and more!
+- 🛠️ Building side-projects & sharing open-source tools.
 
 ---
 
-### ⚙️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+### 🔧 Tech I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,py,react,nextjs,tailwind,bootstrap,mysql,git,linux,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KenXinDev&show_icons=true&theme=radical" alt="KenXinDev GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenXinDev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KenXinDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenXinDev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### ☕ Fun Facts
 
-- 💬 GitHub: [KenXinDev](https://github.com/KenXinDev)
-- ☕ Always open for collaboration or just to say hi!
+- 🔍 I love reverse-engineering websites and making automation bots.
+- 🛠 My favorite tools are **VS Code**, **Termux**, and **Postman**.
+- 🧩 I believe great software comes from a blend of art, logic, and persistence.
+
+---
+
+### 📌 Pinned Projects
+
+<a href="https://github.com/KenXinDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenXinDev&repo=BruteForceIG&theme=radical" />
+</a>
+<a href="https://github.com/KenXinDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KenXinDev&repo=lk21-unofficial-api&theme=radical" />
+</a>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenXinDev&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
