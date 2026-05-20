@@ -60,8 +60,8 @@
   <a href="https://github.com/KenXinDev/BruteForceIG">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=BruteForceIG&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/KenXinDev/lk21-unofficial-api">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=lk21-unofficial-api&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/KenXinDev/Recon">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=Recon&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
