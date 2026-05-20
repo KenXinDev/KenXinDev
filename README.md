@@ -61,7 +61,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=BruteForceIG&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/KenXinDev/Recon">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=Recon&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=Reco&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
