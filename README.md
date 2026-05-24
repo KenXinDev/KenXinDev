@@ -63,6 +63,9 @@
   <a href="https://github.com/KenXinDev/Recon">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=Recon&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/KenXinDev/WA-Blaster">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KenXinDev&repo=WA-Blaster&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
